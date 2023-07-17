@@ -1,0 +1,28 @@
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(204, 171, 155);
+}
+
+.note{
+    font-size: 15px;
+  
+}
+
+
+.copy_right_footer{
+    position:fixed;
+    text-align:center;
+}
+
+
+canvas{
+    border:5px solid snow;
+    border-radius: 20px;
+ 
+    margin-left:50px;
+    padding:50px;
+    margin:"auto";
+   
+}
